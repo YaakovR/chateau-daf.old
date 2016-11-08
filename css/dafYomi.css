@@ -1,0 +1,20 @@
+shiurimWell, boxDiv {
+	
+}
+
+#shiurimWell {
+	margin-right: 50px;
+	height: 550px;
+	margin-top: 150px;
+}
+
+#boxDiv iframe {
+	height: 550px;
+	margin-top: 150px;
+}
+
+#chumashIframe {
+	height: 550px;
+	margin-top: 150px;
+	width: 80%;
+}
